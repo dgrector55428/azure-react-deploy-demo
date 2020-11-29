@@ -6,9 +6,9 @@ function Page1() {
     <div className="page page1">
       <div className="flagTop" />
       <div className="flagCenter">
-        <h1 className="country">Argentina (PAGE 1)</h1>
+        <h1 className="page">PAGE 1</h1>
         <div className="otherLinks">
-          <Link to="/page2">Nigeria</Link>
+          <Link to="/page2">PAGE 2</Link>
           <Link to="/">Home</Link>
         </div>
       </div>
